@@ -1,0 +1,15 @@
+*.pyc
+data*
+.vscode
+.idea
+.netrc
+log.txt
+accounts/*
+Thumbnails/*
+MediaInfo/*
+Images/*
+rclone/*
+list_drives.txt
+downloads
+bot.session
+user.session
